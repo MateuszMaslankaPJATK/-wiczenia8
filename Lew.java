@@ -12,7 +12,7 @@ public class Lew extends Ssak {
     public String poruszajSie() {
         return "Biega na czterech łapach.";
     }
-
+//
     @Override
     public String srodowiskoNaturalne() {
         return "Sawanna afrykańska";
